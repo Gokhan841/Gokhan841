@@ -58,8 +58,8 @@
 ---
 
 ### 📜 **Certifications**
-- Türkcell Geleceği Yazanlar
-- R.Net - Bilge Adam
+- **React.js Sertifikası - Türkcell Geleceği Yazanlar** - 2023
+- **React.js Sertifikası - .Net - Bilge Adam** - 2023
 
 ---
 
