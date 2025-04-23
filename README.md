@@ -18,7 +18,7 @@
 </p>
 
 #### 🛠 Frameworks and Libraries:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
@@ -35,19 +35,19 @@
 </p>
 
 #### 🔗 APIs & Data Handling:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=flat-square" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/Axios-5A29E6?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
 #### 🧠 State Management:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Context" />
 </p>
 
 #### ⚙️ Tools & Utilities:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -58,17 +58,25 @@
 ---
 
 ### 📜 **Certifications**
-- **React.js Sertifikası - Türkcell Geleceği Yazanlar** - 2023
-- **React.js Sertifikası - .Net - Bilge Adam** - 2023
+- **React.js Sertifikası - Türkcell Geleceği Yazanlar** 
+- ** .Net - Bilge Adam** 
 
 ---
 
-### 🌐 Connect with me:
-
 <p align="center">
-  <a href="mailto:gokhankeskin93@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
-  <a href="https://github.com/Gokhan841"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://gokhaniscoding.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://instagram.com/gnknbey"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:gokhankeskin93@hotmail.com">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" alt="Email"/>
+  </a>
+  <a href="https://github.com/Gokhan841" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" style="background-color: #000; border-radius: 6px;" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://gokhaniscoding.medium.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/medium-logo.png" style="background-color: #12100E; border-radius: 6px;" alt="Medium"/>
+  </a>
+  <a href="https://instagram.com/gnknbey" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
 </p>
