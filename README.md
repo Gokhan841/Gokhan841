@@ -1,57 +1,74 @@
 <h1 align="center">Hi 👋, I'm Gökhan Keskin</h1>
-<h3 align="center">Frontend Developer</h3>
-
-🔭 I’m currently working on React, Redux, and Next.js projects  
-🌱 I’m also learning React Native and advanced Frontend technologies  
-📫 Reach me at: **gokhankeskin93@hotmail.com**  
-📝 I share my writings on [Medium](https://gokhaniscoding.medium.com/)  
-
----
-
-### 💼 Certificates
-
-- 📜 **React.js Certificate** - Turkcell Geleceği Yazanlar  
-- 📜 **.Net Certificate** - Bilge Adam Academy
-
----
-
-### 💻 Skills
+<h3 align="center">A Passionate Frontend Developer from Turkey 🇹🇷</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakra-ui&logoColor=white" alt="Chakra UI"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=flat&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  🚀 Focused on building fast, responsive and dynamic web applications with modern technologies.
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 💼 Skills Overview
+
+#### 👩‍💻 Front-End Development:
+<p align="center">
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</p>
+
+#### 🛠 Frameworks and Libraries:
+<p align="center">
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+  ![Create.js](https://img.shields.io/badge/-Create.js-1B1B1B?style=flat-square&logo=createjs&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+</p>
+
+#### 🎨 Styling & Design:
+<p align="center">
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+</p>
+
+#### 🔗 APIs & Data Handling:
+<p align="center">
+  ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000000?style=flat-square)
+  ![Axios](https://img.shields.io/badge/-Axios-5A29E6?style=flat-square&logo=axios&logoColor=white)
+</p>
+
+#### 🧠 State Management:
+<p align="center">
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+  ![React Context](https://img.shields.io/badge/-React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white)
+</p>
+
+#### ⚙️ Tools & Utilities:
+<p align="center">
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+</p>
+
+---
+
+### 📜 **Certifications**
+- **React.js Sertifikası - Türkcell Geleceği Yazanlar** - 2023
+- **React.js Sertifikası - .Net - Bilge Adam** - 2023
+
+---
+
+### 🌐 Connect with me:
 
 <p align="center">
-  <a href="mailto:gokhankeskin93@hotmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email"/>
-  </a>
-  <a href="https://github.com/Gokhan841" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://gokhaniscoding.medium.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium"/>
-  </a>
-  <a href="https://instagram.com/gnknbey" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
+  <a href="mailto:gokhankeskin93@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://github.com/Gokhan841"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gokhaniscoding.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://instagram.com/gnknbey"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
