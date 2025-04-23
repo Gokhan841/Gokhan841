@@ -66,20 +66,9 @@
 ### 🌐 Connect with me:
 
 <p align="center">
-  <a href="mailto:gokhankeskin93@hotmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" alt="Email" width="150"/>
-  </a>
-  <a href="https://github.com/Gokhan841" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" width="150"/>
-  </a>
-  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" width="150"/>
-  </a>
-  <a href="https://gokhaniscoding.medium.com/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" width="150"/>
-  </a>
-  <a href="https://instagram.com/gnknbey" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" width="150"/>
-  </a>
+  <a href="mailto:gokhankeskin93@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://github.com/Gokhan841"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/g%C3%B6khan-keskin-7b054115a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gokhaniscoding.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://instagram.com/gnknbey"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-
