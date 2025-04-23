@@ -27,7 +27,7 @@
 </p>
 
 #### 🎨 Styling & Design:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
@@ -63,7 +63,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="margin: 0 10px;">
   <a href="mailto:gokhankeskin93@hotmail.com">
     <img src="https://img.icons8.com/fluency/48/new-post.png" alt="Email"/>
   </a>
