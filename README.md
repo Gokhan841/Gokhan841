@@ -76,7 +76,4 @@
   <a href="https://gokhaniscoding.medium.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/48/ffffff/medium-logo.png" style="background-color: #12100E; border-radius: 6px;" alt="Medium"/>
   </a>
-  <a href="https://instagram.com/gnknbey" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
 </p>
